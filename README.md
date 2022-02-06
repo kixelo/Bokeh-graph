@@ -18,3 +18,10 @@ Jupyter Notebook
 
 ## Images
 <img src="images/bokeh_plot.png" />
+
+## Instructions, how to display the graph
+```
+1. Downloads ZIP files
+2. open Jupyter Notebook (from the same folder)
+2. load "Bitcoin_graph_history.ipynb" and then press "Ctrl + ENTER"
+```
