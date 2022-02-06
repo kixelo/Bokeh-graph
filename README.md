@@ -22,6 +22,6 @@ Jupyter Notebook
 ## Instructions, how to display the graph
 ```
 1. Downloads ZIP files
-2. open Jupyter Notebook (from the same folder)
+2. open terminal and type "Jupyter Notebook"
 3. load "Bitcoin_graph_history.ipynb" and then press "Ctrl + ENTER"
 ```
