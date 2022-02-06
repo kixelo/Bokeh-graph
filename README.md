@@ -15,3 +15,6 @@ Jupyter Notebook
 ```
 [finance.yahoo.com](https://query1.finance.yahoo.com/v7/finance/download/BTC-USD?period1=1410912000&period2=1639958400&interval=1d&events=history&includeAdjustedClose=true)
 ```
+
+## Images
+<img src="images/bokeh_plot.png" />
